@@ -1,5 +1,5 @@
 # SW_Study
-Baekjoon, SW Expert Acadey, Programmers solve  
+Baekjoon, SW Expert Academy, Programmers solve  
 :link:를 통해 코드 확인
 
 ## :yellow_heart: Baekjoon
