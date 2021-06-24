@@ -1,6 +1,6 @@
 # SW_Study
 Baekjoon, SW Expert Acadey, Programmers solve  
-:link:를 통해 코드 확인이 가능하다.
+:link:를 통해 코드 확인
 
 ## :yellow_heart: Baekjoon
 ### JAVA
