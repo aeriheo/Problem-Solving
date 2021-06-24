@@ -70,5 +70,5 @@ Baekjoon, SW Expert Acadey, Programmers solve
 
 ### PYTHON
 20.11.03 **12939** 최댓값과 최솟값 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1103/Programmers_12939.py)  
-20.11.06 **12901** 2016년 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_12901.py) **42748** K번째 수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_42748.py) **42862** 체육복 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_42862.py) **68644** 두 개 뽑아서 더하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_68644.py)
+20.11.06 **12901** 2016년 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_12901.py) **42748** K번째 수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_42748.py) **42862** 체육복 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_42862.py) **68644** 두 개 뽑아서 더하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_68644.py)  
 20.12.06 **12934** 정수 제곱근 판별 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1206/Programmers_12934.py) **67256** 키패드 누르기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1206/Programmers_67256.py)  
