@@ -1,3 +1,4 @@
+// 3431 준환이의 운동관리
 import java.util.Scanner;
 
 public class Solution10 {
