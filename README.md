@@ -9,6 +9,13 @@ Baekjoon, SW Expert Acadey, Programmers solve
 19.04.12 **4344** 평균은 넘겠지 [:link:](https://github.com/aeriheo/SW_Study/blob/master/B0412/Main4344.java)  
 19.04.16 **10817** 세 수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/B0416/Main10817.java)  
 
+### PYTHON
+20.11.05 **10870** 피보나치 수 5 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1105/Acmicpc_10870.py) **10872** 팩토리얼 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1105/Acmicpc_10872.py) **1427** 소트인사이드 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1105/Acmicpc_1427.py) **2750** 수 정렬하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1105/Acmicpc_2750.py)  
+20.11.12 **1463** 1로 만들기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1112/Solution_1463.py) **2003** 수들의 합 2 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1112/Solution_2003.py) **2579** 계단 오르기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1112/Solution_2579.py)  
+20.11.13 **11659** 구간 합 구하기 4 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1113/Solution_11659.py)  
+20.12.15 **1806** 부분합 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1215/Solution_1806.py)  
+20.12.24 **13565** 침투 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1224/BOJ_13565.py) **1713** 후보 추천하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1224/BOJ_1713.py)  
+
 ## :green_heart: SWEA
 ### JAVA
 19.01.02 **3431** 준환이의 운동관리[:link:](https://github.com/aeriheo/SW_Study/blob/master/0102/SWEA_3314.java) **3314** 보충학습과 평균 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0102/SWEA_3431.java) **7829** 보물왕 태혁 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0102/SWEA_7829.java)  
@@ -43,6 +50,9 @@ Baekjoon, SW Expert Acadey, Programmers solve
 19.03.27 **6719** 성수의 프로그래밍 강좌 시청 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0327/Solution6719.java)  
 19.04.15 **9778** 카드 게임 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0415/Solution9778.java)  
 
+### PYTHON
+20.10.16 **10505** 소득 불균형 [:link:](https://github.com/aeriheo/SW_Study/blob/master/201016/Solution10505.py) **10804** 문자열의 거울상 [:link:](https://github.com/aeriheo/SW_Study/blob/master/201016/Solution10804.py) **5356** 의석이의 세로로 말해요 [:link:](https://github.com/aeriheo/SW_Study/blob/master/201016/Solution5356.py)  
+20.10.19 **5688** 세제곱근을 찾아라 [:link:](https://github.com/aeriheo/SW_Study/blob/master/201019/Solution5688.py)  
 
 ## :purple_heart: Programmers
 ### JAVA
@@ -57,3 +67,8 @@ Baekjoon, SW Expert Acadey, Programmers solve
 19.05.05 **12951** JadenCase 문자열 만들기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0505/ProgrammersPractice21.java)  
 19.05.06 **12924** 숫자의 표현 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0506/Programmers12924.java) **12932** 자연수 뒤집어 배열로 만들기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0506/Programmers12932.java)  
 19.05.07 **12918** 문자열 다루기 기본 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0507/Programmers12918.java) **12954** x만큼 간격이 있는 n개의 숫자 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0507/Programmers12954.java)  
+
+### PYTHON
+20.11.03 **12939** 최댓값과 최솟값 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1103/Programmers_12939.py)  
+20.11.06 **12901** 2016년 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_12901.py) **42748** K번째 수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_42748.py) **42862** 체육복 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_42862.py) **68644** 두 개 뽑아서 더하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_68644.py)
+20.12.06 **12934** 정수 제곱근 판별 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1206/Programmers_12934.py) **67256** 키패드 누르기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1206/Programmers_67256.py)  
