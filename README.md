@@ -3,7 +3,7 @@ Baekjoon, SW Expert Acadey, Programmers solve
 :link:를 통해 코드 확인이 가능하다.
 
 ## :yellow_heart: Baekjoon
-19.04.02 **10039** 평균 점수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/B0402/Main10039.java) [Java Badge]  
+19.04.02 **10039** 평균 점수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/B0402/Main10039.java) [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]  
 19.04.10 **5543** 상근날드 [:link:](https://github.com/aeriheo/SW_Study/blob/master/B0410/Main5543.java)  
 19.04.12 **4344** 평균은 넘겠지 [:link:](https://github.com/aeriheo/SW_Study/blob/master/B0412/Main4344.java)  
 19.04.16 **10817** 세 수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/B0416/Main10817.java)  
