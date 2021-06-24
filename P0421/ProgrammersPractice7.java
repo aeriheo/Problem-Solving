@@ -4,13 +4,13 @@ public class ProgrammersPractice7 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String []seoul = {"Jane","Kim"};
-		String answer = "±è¼­¹æÀº ";
+		String answer = "ê¹€ì„œë°©ì€ ";
 		int l = 0;
 		for(int i=0;i<seoul.length;i++) {
 			if(seoul[i].equals("Kim")) l = i;
 		}
 		answer += Integer.toString(l);
-		answer += "¿¡ ÀÖ´Ù";
+		answer += "";
 	}
 
 }
