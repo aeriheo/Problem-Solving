@@ -6,8 +6,8 @@ public class ProgrammersPractice8 {
 		int n = 3;
 		String answer = "";
 		for(int i=1;i<=n;i++) {
-			if(i%2==1) answer += "¼ö";
-			else answer += "¹Ú";
+			if(i%2==1) answer += "ìˆ˜";
+			else answer += "ë°•";
 		}
 
 	}
