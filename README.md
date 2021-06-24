@@ -3,7 +3,11 @@ Baekjoon, SW Expert Acadey, Programmers solve
 :link:를 통해 코드 확인이 가능하다.
 
 ## :yellow_heart: Baekjoon
-
+19.04.02 **10039** 평균 점수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/B0402/Main10039.java) [![Java Badge]] 
+  
+19.04.10 **5543** 상근날드 [:link:](https://github.com/aeriheo/SW_Study/blob/master/B0410/Main5543.java)  
+19.04.12 **4344** 평균은 넘겠지 [:link:](https://github.com/aeriheo/SW_Study/blob/master/B0412/Main4344.java)  
+19.04.16 **10817** 세 수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/B0416/Main10817.java)  
 
 ## :green_heart: SWEA
 
@@ -32,5 +36,23 @@ Baekjoon, SW Expert Acadey, Programmers solve
 19.03.05 **5162** 두가지 빵의 딜레마 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0305/Solution5162.java)  
 19.03.08 **3260** 두 수의 덧셈 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0308/Solution3260.java) **3975** 승률 비교하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0308/Solution3975.java)  
 19.03.09 **1213** [S/W 문제해결 기본] 3일차 - String [:link:](https://github.com/aeriheo/SW_Study/tree/master/0309) **5603** [Professional] 건초더미 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0309/Solution5603.java)  
+19.03.13 **9658** 유효숫자 표기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0313/Solution9658.java)  
+19.03.17 **7732** 시간개념 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0317/Solution7732.java)  
+19.03.19 **7102** 준홍이의 카드놀이 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0319/Solution7102.java)  
+19.03.26 **1289** 원재의 메모리 복구하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0326/Solution1289.java)  
+19.03.27 **6719** 성수의 프로그래밍 강좌 시청 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0327/Solution6719.java)  
+19.04.15 **9778** 카드 게임 [:link:](https://github.com/aeriheo/SW_Study/blob/master/0415/Solution9778.java)  
+
 
 ## :purple_heart: Programmers
+19.04.17 **12912** 두 정수 사이의 합 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0417/ProgrammersPractice1.java) **12950** 행렬의 덧셈 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0417/ProgrammersPractice2.java)  
+19.04.21 **12906** 같은 숫자는 싫어 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0421/ProgrammersPractice4.java) **12910** 나누어 떨어지는 숫자 배열 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0421/ProgrammersPractice5.java) **12916** 문자열 내 p와 y의 개수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0421/ProgrammersPractice6.java) **12919** 서울에서 김서방 찾기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0421/ProgrammersPractice7.java) **12922** 수박수박수박수박수박수? [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0421/ProgrammersPractice8.java) **12928** 약수의 합 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0421/ProgrammersPractice9.java)  
+19.04.22 **12948** 핸드폰 번호 가리기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0422/ProgrammersPractice10.java) **12969** 직사각형 별찍기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0422/ProgrammersPractice11.java)  
+19.04.23 **12947** 하샤드 수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0423/ProgrammersPractice12.java) **12937** 짝수와 홀수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0423/ProgrammersPractice13.java) **12943** 콜라츠 추측 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0423/ProgrammersPractice14.java)  
+19.04.24 **12944** 평균 구하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0424/ProgrammersPractice15.java) **12982** 예산 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0424/ProgrammersPractice16.java)  
+19.04.27 **12931** 자릿수 더하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0427/ProgrammersPractice17.java) **12901** 2016년 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0427/ProgrammersPractice18.java)  
+19.05.01 **12933** 정수 내림차순으로 배치하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0501/ProgrammersPractice19.java)  
+19.05.04 **12935** 제일 작은 수 제거하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0504/ProgrammersPractice20.java)  
+19.05.05 **12951** JadenCase 문자열 만들기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0505/ProgrammersPractice21.java)  
+19.05.06 **12924** 숫자의 표현 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0506/Programmers12924.java) **12932** 자연수 뒤집어 배열로 만들기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0506/Programmers12932.java)  
+19.05.07 **12918** 문자열 다루기 기본 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0507/Programmers12918.java) **12954** x만큼 간격이 있는 n개의 숫자 [:link:](https://github.com/aeriheo/SW_Study/blob/master/P0507/Programmers12954.java)  
