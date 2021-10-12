@@ -14,7 +14,8 @@ Baekjoon, SW Expert Academy, Programmers solve
 20.11.12 **1463** 1로 만들기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1112/Solution_1463.py) **2003** 수들의 합 2 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1112/Solution_2003.py) **2579** 계단 오르기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1112/Solution_2579.py)  
 20.11.13 **11659** 구간 합 구하기 4 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1113/Solution_11659.py)  
 20.12.15 **1806** 부분합 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1215/Solution_1806.py)  
-20.12.24 **13565** 침투 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1224/BOJ_13565.py) **1713** 후보 추천하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1224/BOJ_1713.py)  
+20.12.24 **13565** 침투 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1224/BOJ_13565.py) **1713** 후보 추천하기 [:link:](https://github.com/aeriheo/SW_Study/blob/master/1224/BOJ_1713.py)   
+21.10.12 **10797** 10부제 [:link:](https://github.com/aeriheo/SW_Study/blob/master/211012/BOJ_10797.py)  **1158** 요세푸스 문제 [:link:](https://github.com/aeriheo/SW_Study/blob/master/211012/BOJ_1158.py)  **16205** 변수명 [:link:](https://github.com/aeriheo/SW_Study/blob/master/211012/BOJ_16205.py)  **2164** 카드2 [:link:](https://github.com/aeriheo/SW_Study/blob/master/211012/BOJ_2164.py)  **2484** 주사위 네개 [:link:](https://github.com/aeriheo/SW_Study/blob/master/211012/BOJ_2484.py)  **2506** 점수계산 [:link:](https://github.com/aeriheo/SW_Study/blob/master/211012/BOJ_2506.py)  **2576** 홀수 [:link:](https://github.com/aeriheo/SW_Study/blob/master/211012/BOJ_2576.py)  **2592** 대표값 [:link:](https://github.com/aeriheo/SW_Study/blob/master/211012/BOJ_2592.py)  **2930** 가위 바위 보 [:link:](https://github.com/aeriheo/SW_Study/blob/master/211012/BOJ_2930.py)
 
 ## :green_heart: SWEA
 ### JAVA
