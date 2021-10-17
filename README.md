@@ -32,6 +32,7 @@ Baekjoon, SW Expert Academy, Programmers solve
 |21.10.13|**10828**|스택|[:link:](https://www.acmicpc.net/problem/10828)|[:link:](https://github.com/aeriheo/SW_Study/blob/master/211013/BOJ_10828.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |21.10.14|**10866**|덱|[:link:](https://www.acmicpc.net/problem/10866)|[:link:](https://github.com/aeriheo/SW_Study/blob/master/211014/BOJ_10866.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |21.10.16|**9012**|괄호|[:link:](https://www.acmicpc.net/problem/9012)|[:link:](https://github.com/aeriheo/SW_Study/blob/master/211016/BOJ_9012.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|21.10.17|**1302**|베스트셀러|[:link:](https://www.acmicpc.net/problem/1302)|[:link:](https://github.com/aeriheo/SW_Study/blob/master/211017/BOJ_1302.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
 ## :green_heart: SWEA
 |DATE|Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
