@@ -34,6 +34,9 @@ Baekjoon, SW Expert Academy, Programmers solve
 |21.10.16|**9012**|괄호|[:link:](https://www.acmicpc.net/problem/9012)|[:link:](https://github.com/aeriheo/SW_Study/blob/master/211016/BOJ_9012.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |21.10.17|**1302**|베스트셀러|[:link:](https://www.acmicpc.net/problem/1302)|[:link:](https://github.com/aeriheo/SW_Study/blob/master/211017/BOJ_1302.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |21.10.18|**15649**|N과 M (1)|[:link:](https://www.acmicpc.net/problem/15649)|[:link:](https://github.com/aeriheo/SW_Study/blob/master/211018/BOJ_15649.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|21.12.20|**10818**|최소, 최대|[:link:](https://www.acmicpc.net/problem/10818)|[:link:](https://github.com/aeriheo/SW_Study/blob/master/211220/BOJ_10818.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|21.12.20|**2501**|약수 구하기|[:link:](https://www.acmicpc.net/problem/2501)|[:link:](https://github.com/aeriheo/SW_Study/blob/master/211220/BOJ_2501.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|21.12.20|**3460**|이진수|[:link:](https://www.acmicpc.net/problem/3460)|[:link:](https://github.com/aeriheo/SW_Study/blob/master/211220/BOJ_3460.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
 
 
