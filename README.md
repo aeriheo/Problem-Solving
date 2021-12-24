@@ -42,6 +42,8 @@ Baekjoon, SW Expert Academy, Programmers solve
 |21.12.23|**1292**|쉽게 푸는 문제|[:link:](https://www.acmicpc.net/problem/1292)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/211223/BOJ_1292.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |21.12.23|**1978**|소수 찾기|[:link:](https://www.acmicpc.net/problem/1978)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/211223/BOJ_1978.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |21.12.23|**2693**|N번째 큰 수|[:link:](https://www.acmicpc.net/problem/2693)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/211223/BOJ_2693.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|21.12.24|**2309**|일곱 난쟁이|[:link:](https://www.acmicpc.net/problem/2309)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/211224/BOJ_2309.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|21.12.24|**2581**|소수|[:link:](https://www.acmicpc.net/problem/2581)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/211224/BOJ_2581.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
 ## :green_heart: SWEA
 |DATE|Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
