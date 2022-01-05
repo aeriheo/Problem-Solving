@@ -47,6 +47,8 @@ Baekjoon, SW Expert Academy, Programmers solve
 |21.12.27|**14888**|연산자 끼워넣기|[:link:](https://www.acmicpc.net/problem/14888)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/211227/BOJ_14888.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |21.12.27|**14719**|빗물|[:link:](https://www.acmicpc.net/problem/14719)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/211227/BOJ_14719.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |21.12.28|**2504**|괄호의 값|[:link:](https://www.acmicpc.net/problem/2504)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/211228/BOJ_2504.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.01.05|**2609**|최대공약수와 최소 공배수|[:link:](https://www.acmicpc.net/problem/2609)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220105/BOJ_2609.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.01.05|**1806**|부분합|[:link:](https://www.acmicpc.net/problem/1806)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220105/BOJ_1806.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
 ## :green_heart: SWEA
 |DATE|Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
