@@ -49,6 +49,9 @@ Baekjoon, SW Expert Academy, Programmers solve
 |21.12.28|**2504**|괄호의 값|[:link:](https://www.acmicpc.net/problem/2504)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/211228/BOJ_2504.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.01.05|**2609**|최대공약수와 최소 공배수|[:link:](https://www.acmicpc.net/problem/2609)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220105/BOJ_2609.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.01.05|**1806**|부분합|[:link:](https://www.acmicpc.net/problem/1806)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220105/BOJ_1806.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.01.11|**1916**|최소비용 구하기|[:link:](https://www.acmicpc.net/problem/1916)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220111/BOJ_1916.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.01.13|**1197**|최소 스패닝 트리|[:link:](https://www.acmicpc.net/problem/1197)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220113/BOJ_1197.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.01.13|**2252**|줄 세우기|[:link:](https://www.acmicpc.net/problem/2252)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220113/BOJ_2252.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
 ## :green_heart: SWEA
 |DATE|Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
