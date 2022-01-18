@@ -53,6 +53,8 @@ Baekjoon, SW Expert Academy, Programmers solve
 |22.01.13|**1197**|최소 스패닝 트리|[:link:](https://www.acmicpc.net/problem/1197)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220113/BOJ_1197.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.01.13|**2252**|줄 세우기|[:link:](https://www.acmicpc.net/problem/2252)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220113/BOJ_2252.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.01.17|**1789**|수들의 합|[:link:](https://www.acmicpc.net/problem/1789)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220117/BOJ_1789.py)[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220117/BOJ_1789.cpp)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">|
+|22.01.18|**2293**|동전 1|[:link:](https://www.acmicpc.net/problem/2293)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220118/BOJ_2293.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.01.18|**2294**|동전 2|[:link:](https://www.acmicpc.net/problem/2294)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220118/BOJ_2294.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
 ## :green_heart: SWEA
 |DATE|Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
