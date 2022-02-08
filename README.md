@@ -59,6 +59,8 @@ Baekjoon, SW Expert Academy, Programmers solve
 |22.01.31|**2178**|미로 탐색|[:link:](https://www.acmicpc.net/problem/2178)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220131/BOJ_2178.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.02.06|**1303**|전쟁 - 전투|[:link:](https://www.acmicpc.net/problem/1303)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220206/BOJ_1303.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.02.06|**1743**|음식물 피하기|[:link:](https://www.acmicpc.net/problem/1743)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220206/BOJ_1743.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.02.08|**16953**|A → B|[:link:](https://www.acmicpc.net/problem/16953)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220208/BOJ_16953.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.02.08|**2606**|바이러스|[:link:](https://www.acmicpc.net/problem/2606)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220208/BOJ_2606.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
 ## :green_heart: SWEA
 |DATE|Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
