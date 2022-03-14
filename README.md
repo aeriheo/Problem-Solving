@@ -66,6 +66,13 @@ Baekjoon, SW Expert Academy, Programmers solve
 |22.02.15|**13549**|숨바꼭질 3|[:link:](https://www.acmicpc.net/problem/13549)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220215/BOJ_13549.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.02.16|**13913**|숨바꼭질 4|[:link:](https://www.acmicpc.net/problem/13913)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220216/BOJ_13913.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.02.16|**17086**|아기 상어 2|[:link:](https://www.acmicpc.net/problem/17086)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220216/BOJ_17086.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.14|**1436**|영화감독 숌|[:link:](https://www.acmicpc.net/problem/1436)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220314/BOJ_1436.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.14|**2108**|통계학|[:link:](https://www.acmicpc.net/problem/2108)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220314/BOJ_2108.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.14|**2231**|분해합|[:link:](https://www.acmicpc.net/problem/2231)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220314/BOJ_2231.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.14|**2480**|주사위 세개|[:link:](https://www.acmicpc.net/problem/2480)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220314/BOJ_2480.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.14|**2525**|오븐 시계|[:link:](https://www.acmicpc.net/problem/2525)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220314/BOJ_2525.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.14|**2798**|블랙잭|[:link:](https://www.acmicpc.net/problem/2798)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220314/BOJ_2798.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.14|**7568**|덩치|[:link:](https://www.acmicpc.net/problem/7568)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220314/BOJ_7568.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
 ## :green_heart: SWEA
 |DATE|Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
