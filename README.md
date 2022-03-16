@@ -161,4 +161,11 @@ Baekjoon, SW Expert Academy, Programmers solve
 |20.11.06|**68644**|두 개 뽑아서 더하기|[:link:](https://github.com/aeriheo/SW_Study/blob/master/1106/Programmers_68644.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |20.12.06|**12934**|정수 제곱근 판별|[:link:](https://github.com/aeriheo/SW_Study/blob/master/1206/Programmers_12934.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |20.12.06|**67256**|키패드 누르기|[:link:](https://github.com/aeriheo/SW_Study/blob/master/1206/Programmers_67256.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.16|**12915**|문자열 내 마음대로 정렬하기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220316/P_12915.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.16|**12917**|문자열 내림차순으로 배치하기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220316/P_12917.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.16|**12926**|시저 암호|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220316/P_12926.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.16|**12930**|이상한 문자 만들기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220316/P_12930.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.16|**68935**|3진법 뒤집기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220316/P_68935.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.16|**72410**|신규 아이디 추천|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220316/P_72410.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.03.16|**87389**|나머지가 1이 되는 수 찾기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220316/P_87389.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
