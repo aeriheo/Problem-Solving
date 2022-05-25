@@ -168,4 +168,7 @@ Baekjoon, SW Expert Academy, Programmers solve
 |22.03.16|**68935**|3진법 뒤집기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220316/P_68935.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.03.16|**72410**|신규 아이디 추천|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220316/P_72410.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.03.16|**87389**|나머지가 1이 되는 수 찾기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220316/P_87389.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
-
+|22.05.25|**42861**|섬 연결하기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220525/Programmers_42861.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.05.25|**42888**|오픈채팅방|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220525/Programmers_42888.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.05.25|**43238**|입국심사|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220525/Programmers_43238.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.05.25|**92341**|주차 요금 계산|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220525/Programmers_92341.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
