@@ -177,3 +177,5 @@ Baekjoon, SW Expert Academy, Programmers solve
 |22.07.17|**77884**|약수의 개수와 덧셈|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220717/Programmers_77884.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.07.17|**84512**|모음사전|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220717/Programmers_84512.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.07.17|**92334**|신고 결과 받기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220717/Programmers_92334.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.07.18|**12977**|소수 만들기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220718/Programmers_12977.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.07.18|**42839**|소수 찾기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220718/Programmers_42839.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
