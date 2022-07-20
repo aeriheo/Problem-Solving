@@ -180,3 +180,4 @@ Baekjoon, SW Expert Academy, Programmers solve
 |22.07.18|**12977**|소수 만들기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220718/Programmers_12977.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.07.18|**42839**|소수 찾기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220718/Programmers_42839.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.07.19|**42889**|실패율|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220719/Programmers_42889.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.07.20|**77484**|로또의 최고 순위와 최저 순위|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220720/Programmers_77484.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
