@@ -188,3 +188,5 @@ Baekjoon, SW Expert Academy, Programmers solve
 |22.07.23|**1845**|폰켓몬|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220723/Programmers_1845.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.07.25|**70129**|이진 변환 반복하기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220725/Programmers_70129.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.07.26|**12911**|다음 큰 숫자|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220726/Programmers_12911.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.07.27|**12941**|최솟값 만들기|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220727/Programmers_12941.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|22.07.27|**12945**|피보나치 수|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220727/Programmers_12945.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
