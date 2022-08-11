@@ -2,7 +2,12 @@
 Baekjoon, SW Expert Academy, Programmers solve  
 :link:를 통해 문제와 코드 확인
 
-## :yellow_heart: Baekjoon
+## 
+[BOJ](#Baekjoon)  
+[SWEA](#SWEA)  
+[Programmers](#Programmers)  
+
+## Baekjoon
 |DATE|Q NUMBER|Q NAME|Q LINK|CODE LINK|LANGUAGE|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |19.04.02|**10039**|평균 점수|[:link:](https://www.acmicpc.net/problem/10039)|[:link:](https://github.com/aeriheo/SW_Study/blob/master/B0402/Main10039.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
@@ -74,7 +79,7 @@ Baekjoon, SW Expert Academy, Programmers solve
 |22.03.14|**2798**|블랙잭|[:link:](https://www.acmicpc.net/problem/2798)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220314/BOJ_2798.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |22.03.14|**7568**|덩치|[:link:](https://www.acmicpc.net/problem/7568)|[:link:](https://github.com/aeriheo/Problem-Solving/blob/master/220314/BOJ_7568.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
-## :green_heart: SWEA
+## SWEA
 |DATE|Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
 |:--:|:--:|:--:|:--:|:--:|
 |19.01.02|**3431**|준환이의 운동관리|[:link:](https://github.com/aeriheo/SW_Study/blob/master/0102/SWEA_3314.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
@@ -127,7 +132,7 @@ Baekjoon, SW Expert Academy, Programmers solve
 |20.10.16|**5356**|의석이의 세로로 말해요|[:link:](https://github.com/aeriheo/SW_Study/blob/master/201016/Solution5356.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |20.10.19|**5688**|세제곱근을 찾아라|[:link:](https://github.com/aeriheo/SW_Study/blob/master/201019/Solution5688.py)|<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
-## :purple_heart: Programmers
+## Programmers
 |DATE|Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
 |:--:|:--:|:--:|:--:|:--:|
 |19.04.17|**12912**|두 정수 사이의 합|[:link:](https://github.com/aeriheo/SW_Study/blob/master/P0417/ProgrammersPractice1.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
